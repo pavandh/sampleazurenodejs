@@ -1,0 +1,10 @@
+F:\4Jan2015\NodeJsChatAppServer\NodeJsChatAppServer\NodeJsChatAppServer\NodeJsChatAppServer\bin\Debug\NodeJsChatAppServer.dll
+F:\4Jan2015\NodeJsChatAppServer\NodeJsChatAppServer\NodeJsChatAppServer\NodeJsChatAppServer\bin\Debug\NodeJsChatAppServer.pdb
+F:\4Jan2015\NodeJsChatAppServer\NodeJsChatAppServer\NodeJsChatAppServer\NodeJsChatAppServer\obj\Debug\NodeJsChatAppServer.csprojResolveAssemblyReference.cache
+F:\4Jan2015\NodeJsChatAppServer\NodeJsChatAppServer\NodeJsChatAppServer\NodeJsChatAppServer\obj\Debug\NodeJsChatAppServer.dll
+F:\4Jan2015\NodeJsChatAppServer\NodeJsChatAppServer\NodeJsChatAppServer\NodeJsChatAppServer\obj\Debug\NodeJsChatAppServer.pdb
+C:\Users\ajayj\Desktop\NodeJsChatAppServer\bin\Debug\NodeJsChatAppServer.dll
+C:\Users\ajayj\Desktop\NodeJsChatAppServer\bin\Debug\NodeJsChatAppServer.pdb
+C:\Users\ajayj\Desktop\NodeJsChatAppServer\obj\Debug\NodeJsChatAppServer.csprojResolveAssemblyReference.cache
+C:\Users\ajayj\Desktop\NodeJsChatAppServer\obj\Debug\NodeJsChatAppServer.dll
+C:\Users\ajayj\Desktop\NodeJsChatAppServer\obj\Debug\NodeJsChatAppServer.pdb

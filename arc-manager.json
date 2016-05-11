@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "ManagerHost": 2,
+    "LoadBalancer": 2
+  },
+  "models": {
+    "ManagerHost": {},
+    "LoadBalancer": {
+      "1": "{\"protocol\":\"http\",\"host\":\"http://vm-de-collaboration-qa-api.azurewebsites.net\",\"port\":8083,\"id\":1}"
+    }
+  }
+}
