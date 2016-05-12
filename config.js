@@ -1,9 +1,9 @@
 
 var config = {};
 
-config.host = process.env.HOST || "https://vm-de-demo-ddb.documents.azure.com:443/";
-config.authKey = process.env.AUTH_KEY || "6Wy3oAlHhm4WsEMOuszHc1Kxejyyev2zd9lCi68lZ66goPfDa5haIj0miXmCGbSikgxcdXrnvzHqY48aObmtaA==";
+config.host = process.env.HOST || "https://vm-ab-demo-ddb.documents.azure.com/";
+config.authKey = process.env.AUTH_KEY || "RHv8nJdDJlscVIR9lyRkl6AHll9vfmVxG8EZVnVsbYtTfM9dlbsdKAnlnsjVfIkHKwe0gWvx21BqteSEDkOQCg==";
 config.databaseId = "demochat";
-config.collectionId = "demochatCollection";
+config.collectionId = "demochatcollection";
 
 module.exports = config;
